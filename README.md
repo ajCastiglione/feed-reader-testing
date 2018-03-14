@@ -10,3 +10,11 @@ This project demonstrates browser based testing using Jasmine.
 <li>Open index.html on your preferred browser</li>
 <li>There should be several test results at the bottom of the screen that says "~ specs, ~ failures"</li>
 </ul>
+
+
+## Resources
+Feed reader provided by Udacity.
+JavaScript - Vanilla JS
+CSS - CSS3
+HTML - HTML5
+Testing - Jasmine
