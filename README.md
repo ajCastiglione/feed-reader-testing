@@ -13,8 +13,8 @@ This project demonstrates browser based testing using Jasmine.
 
 
 ## Resources
-Feed reader provided by Udacity.
-JavaScript - Vanilla JS
-CSS - CSS3
-HTML - HTML5
-Testing - Jasmine
+Feed reader provided by Udacity.<br>
+JavaScript - Vanilla JS<br>
+CSS - CSS3<br>
+HTML - HTML5<br>
+Testing - Jasmine<br>
